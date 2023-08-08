@@ -1,2 +1,4 @@
-# Solu-Array
-Solução para cadastrar alunos de uma escola.
+# DADOSALUNOS
+    Sistema para cadastrar dados dos alunos da escola.
+
+
